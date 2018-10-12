@@ -1,6 +1,8 @@
 # SpeakerVerification-TF ![](Media/AI_icon.png)
 Speaker Embedding for verification / identification task using Tensorflow
 
+<p align="center"><img src="Media/Network.png"/></p>
+
 #### Csv file Format:
 |Index|filename|	speakers	|speaker_id	|duration|
 |-----|--------|	----------|-----------|---------|
